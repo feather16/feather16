@@ -1,5 +1,5 @@
 <h3 align="left">開発中のゲーム:</h3>
-https://github.com/feather16/Gravertical
+https://github.com/feather16/gravertical
 
 <h3 align="left">よく使用する言語やツールなど:</h3>
 <p align="left">
